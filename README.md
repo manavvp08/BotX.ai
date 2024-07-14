@@ -1,6 +1,8 @@
-# [BotX](https://devpost.com/software/botx)
+<img width="1728" alt="BotX" src="https://raw.githubusercontent.com/manavvp08/BotX.ai/main/public/botx.png?token=GHSAT0AAAAAACQUMJXQO2Z3BMWBRL7KZUAAZUTWGNA">
 
-> ### An AI accessibility tool that transforms natural language into real action.
+   ## [Demo]("https://www.youtube.com/watch?v=1CWvOhAn_T8")
+
+><p align="center" > **AI accessibility tool converts Natural Language to tangible action.** </p>
 
 <p align="center">
   Frontend built with: <br>
@@ -23,33 +25,26 @@
   <br>
 </p>
 
-### 🥇 SB Hacks X First Place Winner
 
-<p align="center">
-    <a href="https://devpost.com/software/botx?ref_content=my-projects-tab&ref_feature=my_projects">
-        <img width="1728" alt="Chatbot Page" src="https://github.com/laurelin60/BotX/assets/100006999/b2a65541-6250-41a0-b4ce-608f38d33468">
-    </a>
-</p>
 
-## Getting Started
+## Functionality
+Agentic enables users to navigate the web, execute complex tasks, and interact with webpages using natural language. It employs a sophisticated pipeline centered around HTML, converting raw HTML into a format that AI can effectively utilize to perceive and manipulate web content.
 
-1. Make sure you have [Node.js 18.18.2](https://nodejs.org/en/download)
-2. Clone the repo
-3. Copy `.env.example` to `.env`
-4. Run:
+## Development Approach
+For the Frontend, Agentic is crafted using React, Typescript, and Next.js. We integrated OpenAI's Whisper with Transformers.js and ElevenLabs's API to create a seamless Speech to Text and Text to Speech interface.
 
-```bash 
-npm i
-```
+On the Backend, we utilized Node.js, Selenium, and Google AI (Gemini Pro).
 
-```bash
-npm run dev #client
-```
+## Screenshot
+<img width="2728" alt="BotX" src="https://raw.githubusercontent.com/manavvp08/BotX.ai/main/public/botx2.png?token=GHSAT0AAAAAACQUMJXRU545GOMBF4JOQARMZUTWLIA">
 
-```bash
-npm start #server
-```
 
----
 
-Made with ❤️ by [Andrew Wang](https://www.linkedin.com/in/andrew-wang0/), [Uno Pasadhika](https://www.linkedin.com/in/wpasadhika/), [Kevin Wu](https://www.linkedin.com/in/kevinwu098/), [Andrew Wang](https://www.linkedin.com/in/andreww05/)
+
+
+
+
+
+
+
+
