@@ -1,6 +1,8 @@
-<img width="1728" alt="BotX" src="https://raw.githubusercontent.com/manavvp08/BotX.ai/main/public/botx.png?token=GHSAT0AAAAAACQUMJXQO2Z3BMWBRL7KZUAAZUTWGNA">
+<img width="1728" alt="BotX" src="https://github.com/user-attachments/assets/b3631a1d-7fba-4947-8248-ccaa346ef662">
 
-   ## [Demo]("https://www.youtube.com/watch?v=1CWvOhAn_T8")
+ # [Demo]("https://www.youtube.com/watch?v=1CWvOhAn_T8") 
+
+
 
 ><p align="center" > **AI accessibility tool converts Natural Language to tangible action.** </p>
 
@@ -36,10 +38,7 @@ For the Frontend, Agentic is crafted using React, Typescript, and Next.js. We in
 On the Backend, we utilized Node.js, Selenium, and Google AI (Gemini Pro).
 
 ## Screenshot
-<img width="2728" alt="BotX" src="https://raw.githubusercontent.com/manavvp08/BotX.ai/main/public/botx2.png?token=GHSAT0AAAAAACQUMJXRU545GOMBF4JOQARMZUTWLIA">
-
-
-
+<img width="2728" alt="BotX" src="https://github.com/user-attachments/assets/0a8d715e-e04d-416b-af98-93fe72d4c9e4">
 
 
 
