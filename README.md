@@ -1,9 +1,8 @@
 <img width="1728" alt="BotX" src="https://github.com/user-attachments/assets/b3631a1d-7fba-4947-8248-ccaa346ef662">
 
- # [Demo]("https://youtu.be/gEIxp6inROw") 
 
+ [Demo]("https://youtu.be/gEIxp6inROw") 
 
-[click here](www.google.com)
 ><p align="center" > **AI accessibility tool converts Natural Language to tangible action.** </p>
 
 <p align="center">
