@@ -1,4 +1,4 @@
-# [Agentic](https://devpost.com/software/agentic)
+# [BotX](https://devpost.com/software/botx)
 
 > ### An AI accessibility tool that transforms natural language into real action.
 
@@ -26,8 +26,8 @@
 ### 🥇 SB Hacks X First Place Winner
 
 <p align="center">
-    <a href="https://devpost.com/software/agentic?ref_content=my-projects-tab&ref_feature=my_projects">
-        <img width="1728" alt="Chatbot Page" src="https://github.com/laurelin60/Agentic/assets/100006999/b2a65541-6250-41a0-b4ce-608f38d33468">
+    <a href="https://devpost.com/software/botx?ref_content=my-projects-tab&ref_feature=my_projects">
+        <img width="1728" alt="Chatbot Page" src="https://github.com/laurelin60/BotX/assets/100006999/b2a65541-6250-41a0-b4ce-608f38d33468">
     </a>
 </p>
 

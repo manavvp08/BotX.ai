@@ -224,7 +224,7 @@ const ChatInput = () => {
                         <Textarea
                             value={message}
                             className="border-2 min-h-0 h-[52px] rounded-xl text-lg text-wrap resize-none"
-                            placeholder="Ask Agentic to do anything..."
+                            placeholder="Ask BotX to do anything..."
                             onChange={handleChange}
                             onKeyDown={handleKeyDown}
                             disabled={

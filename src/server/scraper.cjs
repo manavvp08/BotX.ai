@@ -40,7 +40,7 @@ class BrowserInterface {
         let options = new chrome.Options();
         //options.excludeSwitches('enable-logging');
         //options.addArguments('--headless=new', '--disable-logging', '--log-level=3');
-        //options.addArguments(`--user-data-dir=${process.env.APPDATA}\\Agentic\\chrome-profile`);
+        //options.addArguments(`--user-data-dir=${process.env.APPDATA}\\BotX\\chrome-profile`);
         options.setLoggingPrefs(logPrefs);
         this.driver = await new Builder()
             .forBrowser("chrome")
